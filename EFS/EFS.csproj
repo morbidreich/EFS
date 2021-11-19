@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E1D1122-2E13-4565-9D97-C0C59CE0B526}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EFS</RootNamespace>
+    <AssemblyName>EFS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActiveRunway.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActiveRunway.Designer.cs">
+      <DependentUpon>ActiveRunway.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddLocalEFS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddLocalEFS.Designer.cs">
+      <DependentUpon>AddLocalEFS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddObstacleStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddObstacleStrip.Designer.cs">
+      <DependentUpon>AddObstacleStrip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AtisWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AtisWindow.Designer.cs">
+      <DependentUpon>AtisWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bay.Designer.cs">
+      <DependentUpon>Bay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cwiczenie.cs" />
+    <Compile Include="Deice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deice.Designer.cs">
+      <DependentUpon>Deice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodajPasek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodajPasek.Designer.cs">
+      <DependentUpon>DodajPasek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FreeTextWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FreeTextWindow.Designer.cs">
+      <DependentUpon>FreeTextWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ground.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ground.Designer.cs">
+      <DependentUpon>Ground.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputLocalEfsData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputLocalEfsData.Designer.cs">
+      <DependentUpon>InputLocalEfsData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ipDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ipDisplay.Designer.cs">
+      <DependentUpon>ipDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StripSmall.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StripSmall.Designer.cs">
+      <DependentUpon>StripSmall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bin.Designer.cs">
+      <DependentUpon>Bin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Strip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Strip.Designer.cs">
+      <DependentUpon>Strip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FlightPlan.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SID.cs" />
+    <Compile Include="SidWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SidWindow.Designer.cs">
+      <DependentUpon>SidWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StringParser.cs" />
+    <Compile Include="testowa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testowa.Designer.cs">
+      <DependentUpon>testowa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimeEdit.Designer.cs">
+      <DependentUpon>TimeEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TwrArrList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TwrArrList.Designer.cs">
+      <DependentUpon>TwrArrList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpgradedPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Ustawienia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ustawienia.Designer.cs">
+      <DependentUpon>Ustawienia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wczytaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wczytaj.Designer.cs">
+      <DependentUpon>Wczytaj.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ActiveRunway.resx">
+      <DependentUpon>ActiveRunway.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddLocalEFS.resx">
+      <DependentUpon>AddLocalEFS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddObstacleStrip.resx">
+      <DependentUpon>AddObstacleStrip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AtisWindow.resx">
+      <DependentUpon>AtisWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bay.resx">
+      <DependentUpon>Bay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deice.resx">
+      <DependentUpon>Deice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodajPasek.resx">
+      <DependentUpon>DodajPasek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FreeTextWindow.resx">
+      <DependentUpon>FreeTextWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputLocalEfsData.resx">
+      <DependentUpon>InputLocalEfsData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipDisplay.resx">
+      <DependentUpon>ipDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StripSmall.resx">
+      <DependentUpon>StripSmall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bin.resx">
+      <DependentUpon>Bin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Strip.resx">
+      <DependentUpon>Strip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SidWindow.resx">
+      <DependentUpon>SidWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testowa.resx">
+      <DependentUpon>testowa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeEdit.resx">
+      <DependentUpon>TimeEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TwrArrList.resx">
+      <DependentUpon>TwrArrList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ustawienia.resx">
+      <DependentUpon>Ustawienia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wczytaj.resx">
+      <DependentUpon>Wczytaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DirPicker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graphix-transparent-empty-recycle-bin_340x367.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icn-trash-bin-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClearLand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ContinueApp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoAround.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LineUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TakeOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StripDropIndicator.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

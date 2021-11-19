@@ -1,0 +1,149 @@
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\obj\Debug\EFS.csprojResolveAssemblyReference.cache
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\obj\Debug\EFS.Form1.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\obj\Debug\EFS.Pasek.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\obj\Debug\EFS.csproj.GenerateResource.Cache
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\Test1\Test1\obj\Debug\EFS.Kosz.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\bin\Debug\EFS.exe.config
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Bay.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Kosz.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Pasek.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Properties.Resources.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.csproj.GenerateResource.Cache
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\bin\Debug\EFS.exe
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\bin\Debug\EFS.pdb
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.exe
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.pdb
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\bin\Debug\EFS.exe.config
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.exe
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.pdb
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.csprojResolveAssemblyReference.cache
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Bay.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Kosz.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Pasek.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Properties.Resources.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Wczytaj.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.csproj.GenerateResource.Cache
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\bin\Debug\EFS.exe
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\bin\Debug\EFS.pdb
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Ustawienia.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Wczytaj.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.DodajPasek.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.DodajPasek.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\obj\Debug\EFS.Ustawienia.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\Test1\bin\Debug\App.config
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\EFS.exe.config
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.exe
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.pdb
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\App.config
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\EFS.exe
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\EFS.pdb
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Bay.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.DodajPasek.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Properties.Resources.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Ustawienia.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Wczytaj.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.csproj.GenerateResource.Cache
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\EFS.exe.config
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.exe
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.pdb
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\App.config
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\EFS.exe
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\EFS.pdb
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.csprojResolveAssemblyReference.cache
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Bay.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.DodajPasek.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Properties.Resources.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Ustawienia.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Wczytaj.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.csproj.GenerateResource.Cache
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.AtisWindow.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.SidWindow.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.ActiveRunway.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.ActiveRunway.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.AtisWindow.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.SidWindow.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.testowa.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.TwrArrList.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.StripSmall.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Strip.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Bin.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.FreeTextWindow.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.FreeTextWindow.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.StripSmall.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Bin.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Strip.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.testowa.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.TwrArrList.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Deice.resources
+C:\Users\Bartek\documents\visual studio 2012\Projects\EFS\EFS\obj\Debug\EFS.ObstructionSymbol.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Deice.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.AddObstacleStrip.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.AddLocalEFS.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.TimeEdit.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.InputLocalEfsData.resources
+C:\Users\pseudopiloci\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.ipDisplay.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\EFS.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\App.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\EFS.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\bin\Debug\EFS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.ActiveRunway.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.AddLocalEFS.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.AddObstacleStrip.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.AtisWindow.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Bay.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Deice.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.DodajPasek.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.FreeTextWindow.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.InputLocalEfsData.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.ipDisplay.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.StripSmall.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Bin.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Strip.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.SidWindow.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.testowa.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.TimeEdit.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.TwrArrList.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Ustawienia.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.Wczytaj.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\EFS\EFS\obj\Debug\EFS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\bin\Debug\App.config
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\bin\Debug\EFS.exe.config
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\bin\Debug\EFS.exe
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\bin\Debug\EFS.pdb
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.ActiveRunway.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.AddLocalEFS.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.AddObstacleStrip.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.AtisWindow.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.Bay.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.Deice.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.DodajPasek.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.FreeTextWindow.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.InputLocalEfsData.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.ipDisplay.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.StripSmall.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.Bin.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.Strip.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.Properties.Resources.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.SidWindow.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.testowa.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.TimeEdit.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.TwrArrList.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.Ustawienia.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.Wczytaj.resources
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.csproj.GenerateResource.cache
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.exe
+C:\Users\User\Desktop\EFS najnowsze\EFS\EFS\obj\Debug\EFS.pdb
